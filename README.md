@@ -1,2 +1,3 @@
 # Admin
-admin manages staff,feedback,payment,system,users
+Admin 
+Admin manages staff,feedback,payment,system,users
